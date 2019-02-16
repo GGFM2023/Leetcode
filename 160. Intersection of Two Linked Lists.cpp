@@ -1,3 +1,8 @@
+/*
+Runtime: 80 ms, faster than 17.15% of C++ online submissions.
+Memory Usage: 22.4 MB, less than 100.00% of C++ online submissions.
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
