@@ -45,16 +45,3 @@ public:
         return xy+yz+xz;
     }
 };
-
-/*
-N*N: x=y
-input array first layer = x
-            second layer = y
-
-exmample 2:
-four pillars
-
-xy projection = 4 // total no-zero entry
-xz projection = sum of the tallest pillar for every x
-yz projection = sum ot the tallest pillar for every y 
-*/
