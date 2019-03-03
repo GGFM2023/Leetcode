@@ -6,8 +6,8 @@ Memory Usage: 11.3 MB, less than 5.94% of C++ online submissions for Binary Sear
 /*
 using binary search tree, from middle index split array into subtrees
 middle value == targe, return its index
-middle value < targe && it has sublevel tree, check its right subtree
-middle value > targe && it has sublevel tree, check its left subtree
+middle value < targe && it has subtree, check its right subtree
+middle value > targe && it has subtree, check its left subtree
 return -1, when no subtree exist
 */
 
